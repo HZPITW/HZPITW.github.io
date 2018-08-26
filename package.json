@@ -3,12 +3,12 @@
     "title": "杭州人在世界",
     "author": "开不了口的猫"",
     "version": "1.7.0",
-    "homepage": "http://HZPITW.github.io",
+    "homepage": "http://hzpitw.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/HZPITW/HZPITW.github.io"
+        "url": "https://github.com/HZPITW/hzpitw.github.io"
     },
-    "bugs": "https://github.com/HZPITW/HZPITW.github.io/issues",
+    "bugs": "https://github.com/HZPITW/hzpitw.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
